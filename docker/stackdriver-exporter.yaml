@@ -1,0 +1,2 @@
+collector.gcp.monitoring.enabled: true
+collector.gcp.monitoring.project-id: kktae-demo
